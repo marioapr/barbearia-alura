@@ -6,7 +6,7 @@ Esse foi um projeto idealizado pela a ALura em sua plataforma de cursos, e feito
 
 
 <p align="center">
-  <img alt="Resultado da página" src="/assets/css/site.png" width="100%">
+  <img alt="Resultado da página" src="C:\Users\Usuario\OneDrive\Área de Trabalho\Alura\HTML5 e CSS3\assets\img\site.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
